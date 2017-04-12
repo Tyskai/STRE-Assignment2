@@ -1,5 +1,5 @@
-## STRE Assignment 2
-# American Fuzzy Lop (AFL)
+#### STRE Assignment 2
+### American Fuzzy Lop (AFL)
 
 Download and install AFL (on Linux):
 

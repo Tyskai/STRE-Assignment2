@@ -1,11 +1,11 @@
-#### STRE Assignment 2
-### American Fuzzy Lop (AFL)
+# STRE Assignment 2
+## American Fuzzy Lop (AFL)
 
 Download and install AFL (on Linux):
 
 http://lcamtuf.coredump.cx/afl/
 
-# KLEE
+## KLEE
 
 Download and install KLEE: 
 

@@ -1,11 +1,13 @@
 ## STRE Assignment 2
 # American Fuzzy Lop (AFL)
 
-Go to http://lcamtuf.coredump.cx/afl/ and download and install AFL (on Linux).
+Download and install AFL (on Linux):
+
+http://lcamtuf.coredump.cx/afl/
 
 # KLEE
 
-We are going to run concolic execution on programs from the RERS 2016 or 2017 challenges. The first step is to download and install KLEE:
+Download and install KLEE: 
 
 https://klee.github.io/
 

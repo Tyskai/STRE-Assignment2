@@ -50,7 +50,7 @@ sudo docker run -v [PATH IN THE HOST MACHINE]:[PATH IN THE CONTAINER] -ti --name
 which will load the host path and a path in the Docker container. To simply give it the home_dir:
 
 ```
-sudo docker run -v /Users/sicco/:/home/klee/sicco -ti --name=dock_klee --ulimit='stack=-1:-1' klee/klee
+sudo docker run -v /Users/user_name/:/home/klee/user_name -ti --name=dock_klee --ulimit='stack=-1:-1' klee/klee
 ```
 
 You can remove an old contained using rm:

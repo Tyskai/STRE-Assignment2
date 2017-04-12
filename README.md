@@ -1,6 +1,9 @@
 # STRE Assignment 2
 
-In this file we explained how we set up AFL and KLEE. Then how we worked with the given code to find crashes, so you are able to reproduce the hole thing yourself. We worked on Linux machines, the tools work best (only) on Linux machines, use a VM (Virtual Machine) if you do not run Linux. (Download VirtualBox https://www.virtualbox.org/, install it, download Ubuntu https://www.ubuntu.com/ and create a Ubuntu VM).
+In this file we explained how we set up AFL and KLEE. Then how we worked with the given code to find crashes, so you are able to reproduce the hole thing yourself. We worked on Linux machines, the tools work best (only) on Linux machines.
+
+### Instal Ubuntu VM
+Use a VM (Virtual Machine) if you do not run Linux on your computer, so you can install and use the tools. Download VirtualBox https://www.virtualbox.org/, install it, download Ubuntu https://www.ubuntu.com/ and create a Ubuntu VM.
 
 ## American Fuzzy Lop (AFL)
 

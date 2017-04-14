@@ -5,13 +5,13 @@ In this file we explained how we set up AFL and KLEE. Then how we worked with th
 ### Instal Ubuntu VM
 Use a VM (Virtual Machine) if you do not run Linux on your computer, so you can install and use the tools. Download VirtualBox https://www.virtualbox.org/, install it, download Ubuntu https://www.ubuntu.com/ and create a Ubuntu VM.
 
-## American Fuzzy Lop (AFL)
+## Setting up - American Fuzzy Lop (AFL)
 
 Download and install AFL:
 
 http://lcamtuf.coredump.cx/afl/
 
-## KLEE
+## Setting up - KLEE
 
 Download and install KLEE: 
 
@@ -58,3 +58,21 @@ You can remove an old contained using rm:
 ```
 docker rm dock_klee
 ```
+
+## Running - AFL
+
+To compile the program using the afl-gcc compiler type:
+
+```
+path_to_afl/afl-gcc example.c
+```
+
+In our video example.c is a.c for the first program and gawk.c for the second one.
+
+and then run AFL on the obtained binairy with:
+
+```
+path_to_afl/afl-fuzz -i path_to_input_dir -o path_to_output_dir path_to_binary/a.out
+```
+
+## Running - KLEE

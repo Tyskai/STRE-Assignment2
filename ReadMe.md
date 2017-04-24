@@ -1,4 +1,4 @@
-### Made by Côme du Crest, Ines Duits and Rashid Zamani.
+### Made by Côme du Crest, Ines Duits and Rashid Zamani. Testing group 9.
 
 # STRE Assignment 2
 

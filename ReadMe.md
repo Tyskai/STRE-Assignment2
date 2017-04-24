@@ -1,3 +1,11 @@
+# STRE Assignment
+
+Made by
+
+Côme du Crest
+Ines Duits
+Rashid Zamani
+
 # STRE Assignment 2
 
 In this file we explain how to install the required tools we worked with for this assignment. There are clear instructions on how to create and setup the environment, so you are able to reproduce everything yourself. This is an instruction on how to setup the experiment and interpret the result. Explanation on the causes of the crashes and corresponding fixes are explained in the video. 

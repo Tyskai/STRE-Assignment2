@@ -1,10 +1,4 @@
-# STRE Assignment
-
-Made by
-
-Côme du Crest
-Ines Duits
-Rashid Zamani
+### Made by Côme du Crest, Ines Duits and Rashid Zamani.
 
 # STRE Assignment 2
 
